@@ -28,3 +28,30 @@ Over a two years I studied programming and everything related to it I did it in 
 At School 21, I completed over 20 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. The tasks ranged from coding various algorithms, to applying design patterns
 
 The essence of the training was the peer-to-peer methodology. This is when you don't have teachers, but you have other students of different ages and levels of knowledge. With this methodology I found a lot of like-minded people and my friend and part-time mentor. After a year, I was already gathering groups and designing future learning applications myself. In general, I acted as a team leader
+
+
+
+## Stack
+
+<div>
+  <img src="images/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="images/c.png" title="CLanguage" alt="CLanguage" width="40" height="40"/>&nbsp
+  <img src="images/c++.png" title="CPlusPlusLanguage" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
+  <img src="images/python.png" title="PythonLanguage" alt="PythonLanguage" width="40" height="40"/>&nbsp
+  <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
+  <img src="images/postgresql.png" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp
+</div>
+
+
+
+## Languages Stats
+
+<table>
+  <tr>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dtameka&layout=compact&theme=vision-friendly-dark"/>
+    </td>
+  </tr>
+</table>
+
+---
