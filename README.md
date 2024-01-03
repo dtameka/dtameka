@@ -44,14 +44,9 @@ The essence of the training was the peer-to-peer methodology. This is when you d
 
 
 
-## Languages Stats
+## :fire: My Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dtameka&theme=dark&background=000000)
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dtameka&layout=compact&theme=vision-friendly-dark"/>
-    </td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtameka&layout=compact&theme=vision-friendly-dark)
 
 ---
