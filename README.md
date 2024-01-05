@@ -22,13 +22,11 @@
 
 ## About me
 
-Hello everyone! My name Vladimir Tsurkanov. I am C++/Python developer. My journey in IT started with a project at Sberbank - School21. 
-Over a two years I studied programming and everything related to it I did it in C++, and now I am studying Python + flask for web development.
+Hello everyone! My name is Vladimir Tsurkanov. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming and everything related to it in C++, and now I am studying Python + flask for web development.
 
-At School 21, I completed over 20 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. The tasks ranged from coding various algorithms, to applying design patterns
+At School 21, I completed over 20 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. The tasks ranged from coding various algorithms, to using design patterns.
 
-The essence of the training was the peer-to-peer methodology. This is when you don't have teachers, but you have other students of different ages and levels of knowledge. With this methodology I found a lot of like-minded people and my friend and part-time mentor. After a year, I was already gathering groups and designing future learning applications myself. In general, I acted as a team leader
-
+The essence of the training was the peer-to-peer methodology. This is when you don't have teachers, but you have other students of different ages and levels of knowledge. With this methodology I found a lot of like-minded people and my friend and part-time mentor. After a year, I was already gathering teams and designing future studying projects myself.
 
 
 ## Stack
