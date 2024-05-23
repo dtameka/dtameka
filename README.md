@@ -22,7 +22,8 @@
 
 ## About me
 
-Hello everyone! My name is Vladimir Tsurkanov. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming and everything related to it in C++, and now I am studying Python + flask for web development.
+Hello everyone! My name is Vladimir Tsurkanov. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming and everything related to it in C++.
+Now I am studying Python + Django/Fast api for web development.
 
 At School 21, I completed over 20 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. The tasks ranged from coding various algorithms, to using design patterns.
 
