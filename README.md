@@ -39,7 +39,7 @@ The essence of the training was the peer-to-peer methodology. This is when you d
   <img src="images/python.png" title="PythonLanguage" alt="PythonLanguage" width="40" height="40"/>&nbsp
   <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
   <img src="images/postgresql.png" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp
-  <img src="images/django.png" title="Django" alt="Django" width="40" height="40"/>&nbsp
+  <img src="images/django.png" title="Django" alt="Django" width="88" height="40"/>&nbsp
 </div>
 
 
