@@ -10,7 +10,7 @@
     <div>
       <h1 align="center">Hi there, I'm Vladimir
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-      <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=510&lines=Junior+C%2B%2B%2FPython+programmer+from+Siberia!" alt="Typing SVG" /></a>
+      <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=510&lines=C%2B%2B%2FPython+programmer+from+Siberia!" alt="Typing SVG" /></a>
     </div>
   </div>
 </div>
