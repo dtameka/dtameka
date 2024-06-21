@@ -10,43 +10,47 @@
     <div>
       <h1 align="center">Hi there, I'm Vladimir
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-      <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=510&lines=C%2B%2B%2FPython+programmer+from+Siberia!" alt="Typing SVG" /></a>
+      <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=510&lines=C%2B%2B%2FPython+programmer+from+Siberia!" alt="Typing SVG" /></a>
     </div>
   </div>
 </div>
-
+        
 <div>
   <img src="/images/1tmp.png"/></h1>
 </div>
 
+---
 
-## About me
+<h3 align="center">:technologist: About me</h3>
 
-Hello everyone! My name is Vladimir Tsurkanov. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming and everything related to it in C++.
-Now I am studying Python + Django/Fast api for web development.
+Hello everyone! My name is Vladimir. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming on C/C++.
+Now I am studying Python + Django/Fast-api for web development.
 
-At School 21, I completed over 20 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. The tasks ranged from coding various algorithms, to using design patterns.
+At School 21, I completed over 25 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. You can find some of them in my repository. The tasks ranged from coding simple/hard algorithms, to using design patterns.
 
 The essence of the training was the peer-to-peer methodology. This is when you don't have teachers, but you have other students of different ages and levels of knowledge. With this methodology I found a lot of like-minded people and my friend and part-time mentor. After a year, I was already gathering teams and designing future studying projects myself.
 
+---
 
-## Stack
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-<div>
-  <img src="images/c.png" title="CLanguage" alt="CLanguage" width="40" height="40"/>&nbsp
-  <img src="images/c++.png" title="CPlusPlusLanguage" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
-  <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
-  <img src="images/python.png" title="PythonLanguage" alt="PythonLanguage" width="40" height="40"/>&nbsp
-  <img src="images/flask.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp
-  <img src="images/django.png" title="Django" alt="Django" width="88" height="40"/>&nbsp
-  <img src="images/postgresql.png" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,postgres,docker,qt,django,fastapi,gitlab,linux,git,github,ubuntu,vscode" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">:fire: My Stats</h3>
 
 
 
-## :fire: My Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dtameka&theme=dark&background=000000)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dtameka&theme=dark&background=000000"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtameka&layout=compact&theme=vision-friendly-dark)
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtameka&layout=compact&theme=vision-friendly-dark"/> -->
+
 
 ---
