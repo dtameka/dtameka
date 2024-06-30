@@ -23,12 +23,12 @@
 
 <h3 align="center">:bulb: About me</h3>
 
-Hello everyone! My name is Vladimir. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming on C/C++.
-Now I am studying Python + Django/Fast-api for web development.
+Hello everyone! My name is Vladimir. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I have studied programming on C/C++.
+Currently I am studying Python + Django/Fast-api for web development.
 
-At School 21, I completed over 25 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. You can find some of them in my repository. The tasks ranged from coding simple/hard algorithms, to using design patterns.
+At School 21, I worked on over 25 projects of varying complexity that could take anywhere from 150 to 400 hours to complete. You can find some of them in my repository. The tasks ranged from coding simple/hard algorithms, to using design patterns.
 
-The essence of the training was the peer-to-peer methodology. This is when you don't have teachers, but you have other students of different ages and levels of knowledge. With this methodology I found a lot of like-minded people and my friend and part-time mentor. After a year, I was already gathering teams and designing future studying projects myself.
+The essence of my training was the peer-to-peer methodology. Instead of traditional teaching methods, students of different ages and levels share knowledge. That way I've found a lot of like-minded peoples, my new friends and part-time mentor. After a year, I was already gathering teams and designing future studying projects myself.
 
 ---
 
