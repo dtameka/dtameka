@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">:technologist: About me</h3>
+<h3 align="center">:bulb: About me</h3>
 
 Hello everyone! My name is Vladimir. I am a C++/Python developer. My journey in IT started with a project at Sberbank’s School21. Over two years I studied programming on C/C++.
 Now I am studying Python + Django/Fast-api for web development.
@@ -32,11 +32,27 @@ The essence of the training was the peer-to-peer methodology. This is when you d
 
 ---
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<h3 align="center">:technologist: Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,postgres,docker,qt,django,fastapi,gitlab,linux,git,github,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py" />
+  </a>
+</p>
+
+<h3 align="center">:keyboard: Frameworks</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=qt,django,fastapi" />
+  </a>
+</p>
+
+<h3 align="center">:hammer_and_wrench: Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,docker,gitlab,linux,git,vscode" />
   </a>
 </p>
 
