@@ -36,7 +36,7 @@ The essence of my training was the peer-to-peer methodology. Instead of traditio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,js" />
   </a>
 </p>
 
